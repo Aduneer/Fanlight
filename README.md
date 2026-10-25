@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Fanlight has moved to [Mullion](https://github.com/Aduneer/Mullion)**, with Oriel and Lintel:
+> [Fanlight's README](https://github.com/Aduneer/Mullion/tree/main/apps/fanlight) and its
+> [releases](https://github.com/Aduneer/Mullion/releases/latest) are there now, and new issues
+> and ideas go there too. Every Mullion release still has Fanlight's own installer and portable zip.
+> This repo is archived; its history is in Mullion's, under `apps/fanlight`.
+
 <div align="center">
 
 <picture>
